@@ -1,0 +1,131 @@
+.image {
+  /* The image used */
+  background-image: url(../styles/RokhasLogo.PNG);
+  /* Full height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+
+.image1 {
+  /* The image used */
+  background-image: url(../styles/RokhasLogo.PNG);
+  /* Full height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+
+h1 {
+  color: rgb(30, 34, 255);
+  text-align: center;
+  letter-spacing: 0px;
+  font-family: "Times New Roman";
+}
+
+.footer {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+  color: rgb(255, 30, 30);
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-size: 23px;
+}
+
+.f {
+  display: none;
+}
+
+.tex {
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 100;
+  padding: 100;
+  overflow: hidden;
+  background-color: #1b6985;
+  height: 2cm;
+  text-align: center;
+  text-decoration-color: white;
+  color: azure;
+  font-size: 25px;
+}
+
+button {
+  background-color: #1b6985;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px 10px 10px;
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+  float: center;
+}
+.btn-group .button1:hover {
+  background-color: red;
+  float: center;
+}
+
+.btn-group .button2:hover {
+  background-color: #3e8e41;
+
+  position: absolute;
+  right: -500px;
+}
+
+.button2 {
+  background-color: #1b6985;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  position: absolute;
+  right: -500px;
+}
+
+.btn-group .button3:hover {
+  background-color: #3e8e41;
+
+  position: absolute;
+  right: 500px;
+}
+
+.button3 {
+  background-color: #1b6985;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  position: absolute;
+  right: 500px;
+}
+
+.btn-group .button4:hover {
+  background-color: red;
+
+  position: absolute;
+  right: -500px;
+}
+
+.button4 {
+  background-color: #1b6985;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: white;
+  position: absolute;
+  right: -500px;
+}
+
+.a {
+  color: white;
+}
